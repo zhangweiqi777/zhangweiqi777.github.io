@@ -33,34 +33,5 @@ I'm a second-year Software Engineering student at **Hainan University**, enrolle
 
 ---
 
-## 📂 Featured Projects
-
-### 🌐 Personal Portfolio Website
-> *This website you're viewing right now!*
-- Built with GitHub Pages and Jekyll
-- Customized to showcase my profile and projects
-- **[Live Demo](#)** | **[GitHub Repo](https://github.com/zhangweiqi777/zhangweiqi777.github.io)**
-
-### 📝 Task Manager App (In Progress)
-> *A simple to-do list application*
-- Built with React and Node.js
-- Features: add, delete, and mark tasks as complete
-- **[GitHub Repo](#)**
-
-### 🎮 Number Guessing Game
-> *A fun command-line game written in Python*
-- Practice with loops, conditionals, and user input
-- **[GitHub Repo](#)**
-
-> 💡 *More projects coming soon...*
-
-
-## 📊 GitHub Stats
-
-![Zhang Weiqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangweiqi777&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangweiqi777&layout=compact)
-
----
 
 *⭐ Thanks for visiting my page! Feel free to reach out if you'd like to connect or collaborate.*
