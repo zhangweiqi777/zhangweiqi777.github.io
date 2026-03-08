@@ -6,16 +6,16 @@ title: Zhang Weiqi's Homepage
 # 👋 Hi, I'm Zhang Weiqi
 
 > *Software Engineering (NIIT) Student at Hainan University*  
-> Class of 2023 | Passionate about coding and building cool stuff
+> Class of 2023
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a second-year Software Engineering student at **Hainan University**, enrolled in the **NIIT (National Institute of Information Technology)** program. I love exploring new technologies, solving problems through code, and continuously improving my skills.
+I'm a second-year Software Engineering student at **Hainan University**, I love exploring new technologies, solving problems through code, and continuously improving my skills.
 
 - 🏫 **University**: Hainan University, Haikou, China
-- 📚 **Major**: Software Engineering (NIIT Program)
+- 📚 **Major**: Software Engineering (NIIT)
 - 🎓 **Year**: Class of 2023
 - 🌱 **Currently learning**: Full-stack development, Java, and Python
 - 🎯 **Goal**: To become a skilled software engineer and contribute to meaningful projects
